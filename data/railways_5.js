@@ -1,0 +1,18 @@
+var json_railways_5 = {
+"type": "FeatureCollection",
+"name": "railways_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": "255542235", "name": null, "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7407596, 9.033843 ], [ 38.7403578, 9.0337928 ], [ 38.7401783, 9.0337867 ], [ 38.7399458, 9.033811 ], [ 38.7392306, 9.0339301 ], [ 38.735211, 9.0343314 ], [ 38.7330598, 9.0340378 ], [ 38.7326433, 9.033981 ], [ 38.7324796, 9.0339512 ], [ 38.7323861, 9.0339007 ], [ 38.7323491, 9.0338807 ], [ 38.7322876, 9.0338103 ], [ 38.7322319, 9.0337099 ], [ 38.7324426, 9.0321904 ], [ 38.7328091, 9.0297681 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "255542236", "name": "亚的斯亚贝巴轻轨南北线（2号，蓝", "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7334585, 9.0222799 ], [ 38.7334142, 9.0217488 ], [ 38.7333708, 9.0212742 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "496198578", "name": null, "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7334585, 9.0222799 ], [ 38.7335687, 9.023303 ], [ 38.7335339, 9.0242499 ], [ 38.7334464, 9.0251527 ], [ 38.7332909, 9.0263687 ], [ 38.7332334, 9.026997 ], [ 38.7330414, 9.0283132 ], [ 38.7329153, 9.028962 ], [ 38.7327719, 9.029766 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "496198579", "name": null, "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7328091, 9.0297681 ], [ 38.7329456, 9.0289669 ], [ 38.7330816, 9.0283183 ], [ 38.7332711, 9.0269925 ], [ 38.7333227, 9.0263728 ], [ 38.733476, 9.0251568 ], [ 38.7335619, 9.0242544 ], [ 38.7335814, 9.023821 ], [ 38.7336034, 9.0233035 ], [ 38.7334961, 9.0222766 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "496198580", "name": null, "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7327719, 9.029766 ], [ 38.7325173, 9.0314075 ], [ 38.7322676, 9.0331275 ], [ 38.7321847, 9.0336963 ], [ 38.7322354, 9.0338215 ], [ 38.7323295, 9.0339267 ], [ 38.7324905, 9.0339955 ], [ 38.732631, 9.0340162 ], [ 38.7330575, 9.0340747 ], [ 38.7349554, 9.0343346 ], [ 38.7394047, 9.0339478 ], [ 38.7401314, 9.0338406 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "496198581", "name": null, "type": "light_rail" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7334001, 9.0212735 ], [ 38.733449, 9.0217456 ], [ 38.7334961, 9.0222766 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "759359427", "name": "Abnet", "type": "platform" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7333281, 9.0210468 ], [ 38.7333744, 9.0215104 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "759359429", "name": "Sebategna", "type": "platform" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7329455, 9.0286223 ], [ 38.73303, 9.0281415 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "759359430", "name": "Sebategna", "type": "platform" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7330341, 9.0286415 ], [ 38.7331185, 9.0281607 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "759359431", "name": "Autobus Tera", "type": "platform" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7327253, 9.0340543 ], [ 38.7332503, 9.0341278 ] ] ] } },
+{ "type": "Feature", "properties": { "osm_id": "759359432", "name": "Autobus Tera", "type": "platform" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 38.7327283, 9.0339712 ], [ 38.7332533, 9.0340447 ] ] ] } }
+]
+}
